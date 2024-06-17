@@ -374,6 +374,3 @@ with bmid:
         color='Category',
         color_map=sales_color_map,
     )
-
-
-st.write(st.session_state)
